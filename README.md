@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm trace, an <a href="https://linkedin.com/in/trace">IT Professional</a>☺</h1>
+<h1>Hi, I'm Trace, an <a href="https://linkedin.com/in/trace">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
