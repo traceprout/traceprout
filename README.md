@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 
 [instagram]: https://www.instagram.com/traceprout
-[linkedin]: https://linkedin.com/In/TraceProut
+[linkedin]: https://linkedin.com/In/traceprout123
