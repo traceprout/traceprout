@@ -34,4 +34,7 @@ Here are some ideas to get you started:
 
 
 [instagram]: https://www.instagram.com/traceprout
-[linkedin]: www.linkedin.com/In/traceprout123
+[linkedin]: www.linkedin.com/in/
+traceprout123
+Vanity URL name
+
